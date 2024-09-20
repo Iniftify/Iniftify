@@ -4,7 +4,7 @@
   
   # Welcome to Iniftify 🚀
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/iniftify?style=social)](https://twitter.com/iniftify)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iniftify?style=social)](https://x.com/inifitify)
   
   **Revolutionizing the Digital Asset Ecosystem**
 </div>
